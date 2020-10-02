@@ -8,10 +8,10 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+1. Cloud Performance Engineer and Program Manager
+1. Intel Corporation
+1. Fearless
+1. I love driving 
 
 Write it in first (I) or third (Your Name Here) person.
 
